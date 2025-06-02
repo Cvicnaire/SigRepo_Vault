@@ -1,0 +1,1 @@
+- Close Connection argument has been added to the package functions
