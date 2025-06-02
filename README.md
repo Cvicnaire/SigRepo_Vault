@@ -1,4 +1,5 @@
-This is BU VA PTSDBB Bioinformatics Obsidian Vault.
+# SigRepo Content Vault
+
 # Obsidian Plugins
 
 We use Obsidian+Git to collaboratively edit this content. Below are some conventions, tips and tricks to help with that.
