@@ -23,6 +23,9 @@ Follow these steps to get a local version of this vault:
 	5. [Advanced Tables](obsidian://show-plugin?id=table-editor-obsidian)
 	6. [Excalidraw](obsidian://show-plugin?id=obsidian-excalidraw-plugin)
 	7. [Homepage](obsidian://show-plugin?id=homepage)
+	8. [Code Styler]
+	9. [Full Calendar]
+	10. [Kanban]
 7. Change the default location where attachments are stored by clicking on settings: 
    - **Settings > Files and links **
 	   - **Default location for new attachments** = In subfolder under current folder
