@@ -1,11 +1,11 @@
 [
-  "obsidian-excalidraw-plugin",
   "obsidian-advanced-slides",
   "table-editor-obsidian",
-  "calendar",
+  "code-styler",
   "dataview",
+  "obsidian-excalidraw-plugin",
   "obsidian-git",
   "homepage",
   "obsidian-kanban",
-  "code-styler"
+  "obsidian-full-calendar"
 ]
