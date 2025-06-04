@@ -4,34 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "d590bd1685f018e0",
         "type": "tabs",
-        "dimension": 51.61290322580645,
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "TO DO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "TO DO"
-            }
-          },
-          {
-            "id": "11d0e415570e191c",
+            "id": "52c10c6831fe103a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,16 +21,14 @@
               "title": "SigRepo Updates"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "d4689b80257bb1f5",
+        "id": "01600198c0f11fa8",
         "type": "tabs",
-        "dimension": 48.38709677419355,
         "children": [
           {
-            "id": "851100fa1204f0a8",
+            "id": "01e9aab37f2cac46",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -227,10 +202,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "11d0e415570e191c",
+  "active": "01e9aab37f2cac46",
   "lastOpenFiles": [
-    "TO DO.md",
+    "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.png",
+    "Excalidraw/Drawing 2025-06-03 15.22.32.excalidraw.png",
+    "Excalidraw/Drawing 2025-06-03 15.28.36.excalidraw.png",
     "Presentations/SigRepo Updates.md",
+    "TO DO.md",
+    "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.svg",
     "Database Design/Database Tables.md",
     "2025-06-12.md",
     "Dev References/Environment Files.md",
@@ -238,11 +218,9 @@
     "Dev References",
     "Excalidraw/Drawing 2025-06-03 09.28.30.excalidraw.md",
     "Calendar/2025-06-05 SigRepo Meeting.md",
-    "Excalidraw/Drawing 2025-06-03 15.28.36.excalidraw.png",
     "Excalidraw/Drawing 2025-06-03 15.28.36.excalidraw.svg",
     "Calendar/2025-06-05.md",
     "Excalidraw/Drawing 2025-06-03 15.22.32.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-03 15.22.32.excalidraw.png",
     "Excalidraw/Drawing 2025-06-03 15.22.32.excalidraw.svg",
     "Database Design",
     "SigRepo Home.md",
@@ -262,9 +240,7 @@
     "Notes/Metabolomic Dictionaries.md",
     "Notes/Feature Lookup.md",
     "Notes/Close Connection Argument.md",
-    "Images/Tables.md",
     "Images",
-    "Documentation/Local Wrapper Installation.md",
     "Excalidraw",
     "Documentation",
     "Notes"
