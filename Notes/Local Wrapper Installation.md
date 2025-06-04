@@ -1,0 +1,3 @@
+- need to work on the unistaller for the application
+- need to tweak the ports more
+	- does the api also need to have a same port logic?

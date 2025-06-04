@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Database Design/Database Tables.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Database Tables"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 465.5,
+    "collapsed": true
   },
   "right": {
     "id": "70b2fe290d158f93",
@@ -184,12 +189,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "TO DO.md",
+    "Notes/Local Wrapper Installation.md",
     "Presentations/SigRepo Updates.md",
     "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.md",
     "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.png",
     "Excalidraw/Drawing 2025-06-03 15.22.32.excalidraw.png",
     "Excalidraw/Drawing 2025-06-03 15.28.36.excalidraw.png",
-    "TO DO.md",
     "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.svg",
     "Database Design/Database Tables.md",
     "2025-06-12.md",

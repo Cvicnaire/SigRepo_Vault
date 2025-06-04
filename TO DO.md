@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Documentation
 
 - [x] Minimal Demo
-- [ ] Local Wrapper Installation
+- [ ] [[Notes/Local Wrapper Installation]]
 - [x] Signature Tutorials
 
 
