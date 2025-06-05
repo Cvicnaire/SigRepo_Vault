@@ -11,12 +11,34 @@
             "id": "00bbb385bb56cd56",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TO DO.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "TO DO"
+            }
+          },
+          {
+            "id": "9d7ca36f9d106c32",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-06-05 10.48.59.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-04 15.51.23.excalidraw"
+              "title": "Drawing 2025-06-05 10.48.59.excalidraw"
             }
           }
         ]
@@ -187,22 +209,23 @@
   },
   "active": "00bbb385bb56cd56",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-06-05 10.48.59.excalidraw.md",
+    "TO DO.md",
+    "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.md",
     "Excalidraw/Drawing 2025-06-05 09.51.41.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-05 09.08.27.excalidraw.md",
+    "Documentation/Local Wrapper Installation.md",
+    "Documentation/Minimal Demo.md",
     "Excalidraw/Drawing 2025-06-05 09.51.41.excalidraw.png",
     "Excalidraw/Drawing 2025-06-05 09.51.41.excalidraw.svg",
-    "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.md",
-    "Documentation/Minimal Demo.md",
-    "Documentation/Local Wrapper Installation.md",
     "Images/Tables.md",
     "2025-06-12.md",
     "Known Bugs.md",
     "README.md",
     "SigRepo Home.md",
-    "TO DO.md",
     "FEEDBACK",
     "Excalidraw/attachments/Pasted Image 20250605091320_885.png",
     "Excalidraw/attachments",
-    "Excalidraw/Drawing 2025-06-05 09.08.27.excalidraw.md",
     "Dev References/Environment Files.md",
     "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.svg",
     "Database Design/Database Tables.md",
