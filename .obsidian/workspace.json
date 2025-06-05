@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d1b77702d51b1e05",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "00bbb385bb56cd56",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.md"
+                "file": "SigRepo Home.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-04 15.51.23.excalidraw"
-            }
-          },
-          {
-            "id": "9d7ca36f9d106c32",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-06-05 10.48.59.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-05 10.48.59.excalidraw"
+              "icon": "lucide-file",
+              "title": "SigRepo Home"
             }
           }
         ]
@@ -196,14 +186,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "00bbb385bb56cd56",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-06-05 09.08.27.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-05 09.51.41.excalidraw.md",
-    "Database Design/Database Tables.md",
-    "TO DO.md",
-    "Excalidraw/Drawing 2025-06-05 10.48.59.excalidraw.md",
     "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-05 09.51.41.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-05 09.08.27.excalidraw.md",
+    "TO DO.md",
+    "Database Design/Database Tables.md",
+    "Excalidraw/Drawing 2025-06-05 10.48.59.excalidraw.md",
     "Documentation/Local Wrapper Installation.md",
     "Documentation/Minimal Demo.md",
     "Excalidraw/Drawing 2025-06-05 09.51.41.excalidraw.png",
