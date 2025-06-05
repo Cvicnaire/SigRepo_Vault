@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5,
-    "collapsed": true
+    "width": 465.5
   },
   "right": {
     "id": "70b2fe290d158f93",
@@ -187,6 +186,7 @@
   },
   "active": "00bbb385bb56cd56",
   "lastOpenFiles": [
+    "FEEDBACK",
     "Known Bugs.md",
     "README.md",
     "SigRepo Home.md",
