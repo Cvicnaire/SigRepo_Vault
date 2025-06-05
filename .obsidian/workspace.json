@@ -11,22 +11,12 @@
             "id": "00bbb385bb56cd56",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "TO DO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.md"
               },
-              "icon": "lucide-trello",
-              "title": "TO DO"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-04 15.51.23.excalidraw"
             }
           },
           {
@@ -98,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5,
-    "collapsed": true
+    "width": 465.5
   },
   "right": {
     "id": "70b2fe290d158f93",
@@ -209,11 +198,12 @@
   },
   "active": "00bbb385bb56cd56",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-06-05 10.48.59.excalidraw.md",
-    "TO DO.md",
-    "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-05 09.51.41.excalidraw.md",
     "Excalidraw/Drawing 2025-06-05 09.08.27.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-05 09.51.41.excalidraw.md",
+    "Database Design/Database Tables.md",
+    "TO DO.md",
+    "Excalidraw/Drawing 2025-06-05 10.48.59.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.md",
     "Documentation/Local Wrapper Installation.md",
     "Documentation/Minimal Demo.md",
     "Excalidraw/Drawing 2025-06-05 09.51.41.excalidraw.png",
@@ -228,7 +218,6 @@
     "Excalidraw/attachments",
     "Dev References/Environment Files.md",
     "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.svg",
-    "Database Design/Database Tables.md",
     "Notes/Local Wrapper Installation.md",
     "Presentations/SigRepo Updates.md",
     "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.png",

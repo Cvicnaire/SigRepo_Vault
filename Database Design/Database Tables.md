@@ -28,6 +28,8 @@
 | user_name          |                                                    |
 | visibility         |                                                    |
 | signature_hashkey  |                                                    |
+|                    |                                                    |
+new column for additional information, on signature upload
 
 | signature_feature_set |     |
 | --------------------- | --- |
