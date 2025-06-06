@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "2d3ead293ae492bd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-06 12.49.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-06 12.49.59.excalidraw"
+            }
+          },
+          {
             "id": "879c11d049988efa",
             "type": "leaf",
             "state": {
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,11 +232,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f64f13ecdecaf5a2",
+  "active": "2d3ead293ae492bd",
   "lastOpenFiles": [
-    "Calendar/2025-06-05 Lab Meeting.md",
     "Calendar/2025-06-06 SigRepo Meeting.md",
+    "Excalidraw/Drawing 2025-06-06 12.49.59.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-06 12.49.59.excalidraw.png",
+    "Excalidraw/Drawing 2025-06-06 12.49.59.excalidraw.svg",
     "TO DO.md",
+    "Calendar/2025-06-05 Lab Meeting.md",
     "Notes/Dictionary Metabolomics.md",
     "Documentation/Minimal Demo.md",
     "SigRepo Home.md",
@@ -256,14 +271,11 @@
     "Excalidraw/Drawing 2025-06-03 15.28.36.excalidraw.svg",
     "Calendar/2025-06-05.md",
     "Excalidraw/Drawing 2025-06-03 15.22.32.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-03 15.22.32.excalidraw.svg",
     "Database Design",
     "Archive",
     "Presentations",
     "Notes/Dictionary Sample Types.md",
     "Calendar",
-    "---.md",
-    "2025-06-02.md",
     "Images",
     "Excalidraw",
     "Documentation"
