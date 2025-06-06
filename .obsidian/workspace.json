@@ -28,8 +28,33 @@
               "icon": "lucide-trello",
               "title": "TO DO"
             }
+          },
+          {
+            "id": "879c11d049988efa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/2025-06-06 SigRepo Meeting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-06 SigRepo Meeting"
+            }
+          },
+          {
+            "id": "f64f13ecdecaf5a2",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,10 +220,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f64f13ecdecaf5a2",
   "lastOpenFiles": [
-    "Notes/Dictionary Metabolomics.md",
+    "Calendar/2025-06-05 Lab Meeting.md",
+    "Calendar/2025-06-06 SigRepo Meeting.md",
     "TO DO.md",
+    "Notes/Dictionary Metabolomics.md",
     "Documentation/Minimal Demo.md",
     "SigRepo Home.md",
     "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.md",
@@ -226,14 +253,12 @@
     "Excalidraw/Drawing 2025-06-03 15.28.36.excalidraw.md",
     "Dev References",
     "Excalidraw/Drawing 2025-06-03 09.28.30.excalidraw.md",
-    "Calendar/2025-06-05 SigRepo Meeting.md",
     "Excalidraw/Drawing 2025-06-03 15.28.36.excalidraw.svg",
     "Calendar/2025-06-05.md",
     "Excalidraw/Drawing 2025-06-03 15.22.32.excalidraw.md",
     "Excalidraw/Drawing 2025-06-03 15.22.32.excalidraw.svg",
     "Database Design",
     "Archive",
-    "Calendar/2025-06-05 Lab Meeting.md",
     "Presentations",
     "Notes/Dictionary Sample Types.md",
     "Calendar",
