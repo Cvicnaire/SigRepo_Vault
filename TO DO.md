@@ -25,7 +25,7 @@ kanban-plugin: board
 
 ## DB Design & Init
 
-- [ ] Dictionary: Platform
+- [x] Dictionary: Platform
 - [ ] DB Secure Access
 - [ ] Dictionary Creation Function
 - [ ] Dictionary: Other Features
@@ -38,7 +38,7 @@ kanban-plugin: board
 - [ ] Keyword Table
 - [ ] Dictionary: Proteomics
 - [ ] Add Difexp Information to Signature Table
-- [ ] Dictionary: Metabolomics
+- [ ] [[Dictionary Metabolomics]]
 
 
 ## API
