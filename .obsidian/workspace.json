@@ -8,37 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "TO DO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "TO DO"
-            }
-          },
-          {
-            "id": "2d3ead293ae492bd",
+            "id": "f3691a87b3e28d22",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-06 12.49.59.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-06-06 13.24.07.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-06 12.49.59.excalidraw"
+              "title": "Drawing 2025-06-06 13.24.07.excalidraw"
             }
           },
           {
@@ -59,14 +37,19 @@
             "id": "f64f13ecdecaf5a2",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,14 +189,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "9e448ac5ea492fd0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,14 +224,19 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2d3ead293ae492bd",
+  "active": "f3691a87b3e28d22",
   "lastOpenFiles": [
-    "Calendar/2025-06-06 SigRepo Meeting.md",
+    "Calendar/2025-06-05 Lab Meeting.md",
+    "Excalidraw/Drawing 2025-06-06 13.24.07.excalidraw.md",
+    "Notes/Additional Information.md",
+    "TO DO.md",
+    "Excalidraw/Drawing 2025-06-06 13.24.07.excalidraw.png",
+    "Excalidraw/Drawing 2025-06-06 13.24.07.excalidraw.svg",
     "Excalidraw/Drawing 2025-06-06 12.49.59.excalidraw.md",
+    "Untitled Kanban.md",
+    "Calendar/2025-06-06 SigRepo Meeting.md",
     "Excalidraw/Drawing 2025-06-06 12.49.59.excalidraw.png",
     "Excalidraw/Drawing 2025-06-06 12.49.59.excalidraw.svg",
-    "TO DO.md",
-    "Calendar/2025-06-05 Lab Meeting.md",
     "Notes/Dictionary Metabolomics.md",
     "Documentation/Minimal Demo.md",
     "SigRepo Home.md",
@@ -264,17 +261,13 @@
     "Presentations/SigRepo Updates.md",
     "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.png",
     "Excalidraw/Drawing 2025-06-03 15.22.32.excalidraw.png",
-    "Excalidraw/Drawing 2025-06-03 15.28.36.excalidraw.png",
     "Excalidraw/Drawing 2025-06-03 15.28.36.excalidraw.md",
     "Dev References",
     "Excalidraw/Drawing 2025-06-03 09.28.30.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-03 15.28.36.excalidraw.svg",
     "Calendar/2025-06-05.md",
-    "Excalidraw/Drawing 2025-06-03 15.22.32.excalidraw.md",
     "Database Design",
     "Archive",
     "Presentations",
-    "Notes/Dictionary Sample Types.md",
     "Calendar",
     "Images",
     "Excalidraw",

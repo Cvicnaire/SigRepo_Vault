@@ -39,6 +39,7 @@ kanban-plugin: board
 - [ ] Dictionary: Proteomics
 - [ ] Add Difexp Information to Signature Table
 - [ ] [[Dictionary Metabolomics]]
+- [ ] [[Additional Information]]
 
 
 ## API
