@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "e57d6c14933cd390",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-09 10.56.16.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-09 10.56.16.excalidraw"
+            }
+          },
+          {
             "id": "879c11d049988efa",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5,
-    "collapsed": true
+    "width": 465.5
   },
   "right": {
     "id": "70b2fe290d158f93",
@@ -235,8 +246,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e8d29c637e1799cd",
+  "active": "e57d6c14933cd390",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-06-09 10.56.16.excalidraw.png",
+    "Excalidraw/Drawing 2025-06-09 10.56.16.excalidraw.svg",
+    "Excalidraw/Drawing 2025-06-06 12.49.59.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-09 10.56.16.excalidraw.md",
     "Excalidraw/Drawing 2025-06-06 13.24.07.excalidraw.md",
     "Excalidraw/Drawing 2025-06-05 09.51.41.excalidraw.md",
     "Excalidraw/Drawing 2025-06-05 09.08.27.excalidraw.md",
@@ -251,7 +266,6 @@
     "Notes/Additional Information.md",
     "Excalidraw/Drawing 2025-06-06 13.24.07.excalidraw.png",
     "Excalidraw/Drawing 2025-06-06 13.24.07.excalidraw.svg",
-    "Excalidraw/Drawing 2025-06-06 12.49.59.excalidraw.md",
     "Untitled Kanban.md",
     "Calendar/2025-06-06 SigRepo Meeting.md",
     "Excalidraw/Drawing 2025-06-06 12.49.59.excalidraw.png",
@@ -272,9 +286,6 @@
     "Excalidraw/attachments/Pasted Image 20250605091320_885.png",
     "Excalidraw/attachments",
     "Dev References/Environment Files.md",
-    "Excalidraw/Drawing 2025-06-04 15.51.23.excalidraw.svg",
-    "Notes/Local Wrapper Installation.md",
-    "Presentations/SigRepo Updates.md",
     "Dev References",
     "Database Design",
     "Archive",
