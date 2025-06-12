@@ -3,10 +3,10 @@ checking R code for possible problems ... NOTE
     ~~‘syms’~~
   addProteomicsSignatureSet: no visible global function definition for
     ‘is’
-  addProteomicsSignatureSet: no visible binding for global variable
-    ‘feature_hashkey’
-  addProteomicsSignatureSet: no visible binding for global variable
-    ‘feature_id’
+  ==addProteomicsSignatureSet: no visible binding for global variable==
+    ==‘feature_hashkey’==
+  ==addProteomicsSignatureSet: no visible binding for global variable==
+    ==‘feature_id’==
   addSignature: no visible global function definition for ‘is’
   addTranscriptomicsFeatureSet: no visible global function definition for
     ‘syms’
