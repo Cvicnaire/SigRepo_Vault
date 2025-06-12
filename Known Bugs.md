@@ -25,7 +25,7 @@ checking R code for possible problems ... NOTE
   ~~checkOmicCollection: no visible global function definition for ‘is’~~
   ~~checkOmicSignature: no visible global function definition for ‘is’~~
   checkPermissions: no visible binding for global variable ‘.’
-  checkTableInput: no visible global function definition for ‘is’
+  ~~checkTableInput: no visible global function definition for ‘is’~~
   checkTableInput: no visible binding for global variable ‘.’
   createHashKey: no visible global function definition for ‘is’
   createHashKey: no visible global function definition for ‘all_of’
