@@ -83,3 +83,40 @@ checking R code for possible problems ... NOTE
     importFrom("methods", "is")
   to your NAMESPACE file (and ensure that your DESCRIPTION Imports field
   contains 'methods').
+
+
+
+
+ Undocumented code objects, need to fix these. give functions documentation or dont export if helper functions.
+ 
+~~‘addProteomicsFeatureSet’~~
+  ‘addProteomicsSignatureSet’
+  ‘addSignatureWithID’ 
+    ‘addTranscriptomicsFeatureSet’
+    ‘addTranscriptomicsSignatureSet’ 
+    ‘checkDBTable’
+    ‘checkDuplicatedEmails’
+     ‘checkOmicCollection’
+      ‘checkOmicSignature’
+    ‘checkPermissions’
+     ‘checkTableInput’
+      ‘conn_init’
+    ‘createCollectionMetadata’
+     ‘createHashKey’ 
+     ‘createOmicCollection’
+    ‘createOmicSignature’
+     ‘createSignatureMetadata’
+      ‘getDBColNames’
+    ‘getNumOfObs’ 
+    ‘getVariableID’ 
+    ‘insert_table_sql’
+     ‘print_messages’
+    ‘removeDuplicates’ 
+    ‘retrieveTranscriptomicsFeatureSet’
+    ‘showOrganismErrorMessage’
+     ‘showPlatformErrorMessage’
+    ‘showProteomicsErrorMessage’
+     ‘showSampleTypeErrorMessage’
+    ‘showTranscriptomicsErrorMessage’ 
+    ‘verbose’
+  
