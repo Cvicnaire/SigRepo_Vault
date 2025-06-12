@@ -18,11 +18,11 @@ checking R code for possible problems ... NOTE
     ==‘feature_id’==
   ==addUserToCollection: no visible binding for global variable ‘username’==
   ==addUserToSignature: no visible binding for global variable ‘username’==
-  checkDuplicatedEmails: no visible global function definition for ‘is’
-  checkDuplicatedEmails: no visible global function definition for ‘syms’
-  checkDuplicatedEmails : <anonymous>: no visible binding for global
-    variable ‘user_email’
-  checkOmicCollection: no visible global function definition for ‘is’
+  ==checkDuplicatedEmails: no visible global function definition for ‘is’==
+  ==checkDuplicatedEmails: no visible global function definition for ‘syms’==
+  ==checkDuplicatedEmails : <anonymous>: no visible binding for global==
+==variable ‘user_email’==
+  ~~checkOmicCollection: no visible global function definition for ‘is’~~
   checkOmicSignature: no visible global function definition for ‘is’
   checkPermissions: no visible binding for global variable ‘.’
   checkTableInput: no visible global function definition for ‘is’
