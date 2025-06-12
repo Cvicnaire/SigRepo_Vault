@@ -16,8 +16,8 @@ checking R code for possible problems ... NOTE
     ==‘feature_hashkey’==
   ==addTranscriptomicsSignatureSet: no visible binding for global variable==
     ==‘feature_id’==
-  addUserToCollection: no visible binding for global variable ‘username’
-  addUserToSignature: no visible binding for global variable ‘username’
+  ==addUserToCollection: no visible binding for global variable ‘username’==
+  ==addUserToSignature: no visible binding for global variable ‘username’==
   checkDuplicatedEmails: no visible global function definition for ‘is’
   checkDuplicatedEmails: no visible global function definition for ‘syms’
   checkDuplicatedEmails : <anonymous>: no visible binding for global
