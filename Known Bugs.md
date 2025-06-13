@@ -91,9 +91,9 @@ checking R code for possible problems ... NOTE
  
 ~~‘addProteomicsFeatureSet’~~
   ‘addProteomicsSignatureSet’
-  ‘addSignatureWithID’ 
-    ‘addTranscriptomicsFeatureSet’
-    ‘addTranscriptomicsSignatureSet’ 
+  ‘addSignatureWithID’  done
+    ‘addTranscriptomicsFeatureSet’ done
+    ‘addTranscriptomicsSignatureSet’  done
     ‘checkDBTable’
     ‘checkDuplicatedEmails’
      ‘checkOmicCollection’
