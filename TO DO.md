@@ -30,7 +30,7 @@ kanban-plugin: board
 - [ ] Dictionary Creation Function
 - [ ] Dictionary: Other Features
 - [ ] Database Design Schema Chart
-- [ ] Dictionary: Transcriptomics
+- [x] Dictionary: Transcriptomics
 - [ ] Assay Types (Omics Feature Type)
 - [ ] [[Dictionary Sample Types]]
 - [ ] Dictionary: Organism
